@@ -4,8 +4,6 @@
 
 using namespace std;
 
-const int N = 4700;
-
 int main() {
 	freopen("levenshtein.in", "r", stdin);
 	freopen("levenshtein.out", "w", stdout);
